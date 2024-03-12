@@ -21,10 +21,6 @@
 
 🔬 Proficient in Python and SQL, with a foundation in statistical analysis, machine learning, and data visualization.
 
-## Recognition:
-
-🌟 5-star ranking on HackerRank in Python and SQL challenges.
-
 ## Contact:
 
 📩 Feel free to connect with me on LinkedIn https://www.linkedin.com/in/amruta-patole-69206a284/.
